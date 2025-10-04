@@ -23,8 +23,6 @@ Forecast temporal trends on graphs using PyTorch Geometric Temporal (TGN, TGCN, 
 ## 🌟 Highlights
 - **Temporal GNNs**: TGN memory-based predictor, TGCN, DCRNN
 - **Baselines**: LSTM for sequence modeling
-- **Professional Layout**: Clean, resume-ready structure with curated notebooks
-- **Developer UX**: Pre-commit hooks, Makefile, and clear contribution guide
 
 ## 📁 Repository structure
 ```
